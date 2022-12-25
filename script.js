@@ -1,13 +1,6 @@
-document.write(
-    "Hello"
-);
+// document.write(
+//     "Hello"
+// );
 
-prompt("please enter your name", "Nasim")
-
-confirm("Do you want to login")
-
-var name;
-name = "Nasim Qureshi"
-alert(name)
-
-document.write()
+console.log([35, 62, 65, 86, 78])
+console.warn('this is warning')
