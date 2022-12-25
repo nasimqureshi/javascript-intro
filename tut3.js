@@ -14,3 +14,12 @@ var city = 'karachi';
 // const fruit = 'orange';
 console.log(city )
 console.log(marks )
+
+{
+    let city = 'Lahore & Karchi';
+    console.log(city)
+}
+
+const arr = [13, 45, 69, 13]
+arr.push(70)
+console.log(arr);
